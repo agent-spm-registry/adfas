@@ -1,0 +1,11 @@
+{
+  "name": "skill-md",
+  "version": "1.0.0",
+  "description": "Skill \"skill-md\" from \"adfas\" collection",
+  "type": "rules",
+  "skillFile": "SKILL.md",
+  "author": "lakshitsoni26",
+  "license": "MIT",
+  "skills": {},
+  "keywords": []
+}

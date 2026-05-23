@@ -1,0 +1,14 @@
+{
+  "name": "adfas",
+  "version": "1.0.0",
+  "description": "asdfas",
+  "type": "collection",
+  "author": "lakshitsoni26",
+  "license": "MIT",
+  "template": "collection",
+  "workspaces": [
+    "skills/*"
+  ],
+  "skills": {},
+  "keywords": []
+}
